@@ -1,0 +1,6 @@
+model_checkpoint_path: "sea_shrimp_model-49001"
+all_model_checkpoint_paths: "sea_shrimp_model-45001"
+all_model_checkpoint_paths: "sea_shrimp_model-46001"
+all_model_checkpoint_paths: "sea_shrimp_model-47001"
+all_model_checkpoint_paths: "sea_shrimp_model-48001"
+all_model_checkpoint_paths: "sea_shrimp_model-49001"
